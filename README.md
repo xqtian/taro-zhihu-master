@@ -10,7 +10,7 @@ npm install -g @tarojs/cli
 下载代码
 
 
-git clone https://github.com/jxqtian/taro-zhihu-master
+git clone https://github.com/xqtian/taro-zhihu-master
 
 # 安装依赖
 
